@@ -10,7 +10,7 @@ var del_btn = document.getElementById("delItem");
 var newItem_btn =  document.getElementById("newItem");
 var userInput_btn = document.getElementById("userInput");
 
-var icon = "<img src=\"img/trash.svg\" class=\"delIcon\">";
+var icon = "<img src=\"trash.svg\" class=\"delIcon\">";
 
 
 // FUNCTIONS
